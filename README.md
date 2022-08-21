@@ -27,7 +27,6 @@
 ![AngularJS](https://img.shields.io/badge/OPPs--A8B9CC)&nbsp;
 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/sushantkora)
 
 
 
@@ -39,4 +38,4 @@
 
 </p>
 
-
+![Leetcode Stats](https://leetcard.jacoblin.cool/sushantkora)
