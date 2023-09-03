@@ -4,7 +4,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡  &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently working at Honeywell as a Software Engineer.\
+🎓 &nbsp;I'm currently working at Siemens Healthineers as a Software Engineer.\
 🌱 &nbsp;I'm on track for learning more about Sofware Development, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I like to read books, watch movies and I also play guitar.\
 ✉️ &nbsp;You can shoot me an email at sushant.dhb1101@gmail.com! I'll try to respond as soon as I can.
